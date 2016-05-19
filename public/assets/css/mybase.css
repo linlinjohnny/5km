@@ -1,0 +1,9 @@
+ul { padding:0; margin:0; list-style:none; }
+.footer { background-color:#959654; min-height:50px; }
+
+.commonList{}
+    .commonList ul.top { background-color:#CCC; margin-bottom:20px; }
+    .commonList ul.all { background-color:#CCC; padding:5px; }
+        .commonList ul.all li.item { background-color:#AAA; margin-top:5px; }
+            .commonList ul.all li.item .title{ font-size:25px; }
+            .commonList ul.all li.item .content{ font-size:15px; }
